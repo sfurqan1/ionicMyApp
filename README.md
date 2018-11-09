@@ -1,2 +1,2 @@
 # ionicMyApp
-thghf
+This is a test repository.
